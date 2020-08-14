@@ -1,2 +1,2 @@
 # Student-Management-System
-Student management system using code ignitor
+Student management system using codeignitor
